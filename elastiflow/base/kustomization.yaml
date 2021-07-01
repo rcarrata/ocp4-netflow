@@ -1,0 +1,4 @@
+resources:
+- elasticsearch.yaml
+- elastiflow.yaml
+- kibana.yaml

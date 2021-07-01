@@ -1,0 +1,5 @@
+namespace: elastiflow
+bases:
+- ../base
+resources:
+- namespace.yaml
